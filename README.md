@@ -1,4 +1,4 @@
-# vorontsova_ti
+# vorontsova_tei
 <text><speech> 
 <said type="direct" aloud="true"> - Жарко, душно в Дербенте! Взойди-ка на кровлю, Касим; посмотри, как падает за горы солнышко: не краснеет ли запад, не сбираются ли тучи на небе?</said>
 </speech></text>
